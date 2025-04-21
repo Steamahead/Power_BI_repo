@@ -16,8 +16,8 @@ The main business problem revolves around calculating sales that meet the define
 
 In addition to the core business problem, the analysis aims to address additional aspects such as:
 1. Sales performance.
-   Understanding the overall sales performance of the store with the forecast for 1Q of 2022.
-   Analyzing sales by products.
+   •	Understanding the overall sales performance of the store with the forecast for 1Q of 2022.
+   •	Analyzing sales by products.
 3. Product analysis
    •	Identifying the top-selling products.
    •	Assessing the performance and profitability of different products.
