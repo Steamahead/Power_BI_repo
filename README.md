@@ -11,11 +11,10 @@ cdkmckldcmklsd
 ![image](https://github.com/user-attachments/assets/38e60f77-10e5-43cc-a468-299b3fc01d75)
 
 
-# Power_BI_repo
+Analysis of the Adidas US Sales in 2021
 
 
-
-kjefjkncjenc
+[kjefjkncjenc](https://app.powerbi.com/links/Ign-5dwSeA?ctid=7fc665fc-e0a2-4dfe-ba20-844f7e249079&pbi_source=linkShare) 
 
 
 
