@@ -5,11 +5,11 @@
 
 https://app.powerbi.com/links/QhI1JYcPTm?ctid=7fc665fc-e0a2-4dfe-ba20-844f7e249079&pbi_source=linkShare
 
-# Analysis of the Adidas US Sales in 2021
+# Sales analysis
 
 ![image](https://github.com/user-attachments/assets/38e60f77-10e5-43cc-a468-299b3fc01d75)
 
-[kjefjkncjenc](https://app.powerbi.com/links/Ign-5dwSeA?ctid=7fc665fc-e0a2-4dfe-ba20-844f7e249079&pbi_source=linkShare) 
+[report](https://app.powerbi.com/links/Ign-5dwSeA?ctid=7fc665fc-e0a2-4dfe-ba20-844f7e249079&pbi_source=linkShare) 
 
 Introduction
 The Analysis of the Adidas US Sales in 2021 is a comprehensive reporting solution designed to analyze and visualize sales data for Adidas company in the US. It's not a typical sales analysis; instead, it focuses on a specific business problem.
