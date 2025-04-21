@@ -2,7 +2,7 @@
 
 ![xz8y6yki](https://github.com/user-attachments/assets/684ac507-5fd1-4f9b-9491-ea7fecc04b43)
 
-[Report](https://app.powerbi.com/links/Ign-5dwSeA?ctid=7fc665fc-e0a2-4dfe-ba20-844f7e249079&pbi_source=linkShare) 
+[Report](https://app.powerbi.com/view?r=eyJrIjoiODJhMGFmMzQtNDA2Yi00OTNiLWE5MjUtMDg4MzhjYzdkMzYwIiwidCI6IjdmYzY2NWZjLWUwYTItNGRmZS1iYTIwLTg0NGY3ZTI0OTA3OSJ9)
 
 Introduction
 The Analysis of the Adidas US Sales in 2021 is a comprehensive reporting solution designed to analyze and visualize sales data for the Adidas company in the US. It's not a typical sales analysis; instead, it focuses on a specific business problem.
@@ -12,7 +12,7 @@ The main business problem revolves around calculating sales that meet the define
 1. Includes only weeks when the shop has sold at least 4 products or more.
 2. Includes only weeks when the shop has had the sale at the level of 100,000 dollars.
 3. Prominent sale is the sale that accounts for at least 2% of weekly sales.
-4. The grain of the fact table is daily.
+4. The grain of the fact table is daily
 
 In addition to the core business problem, the analysis aims to address additional aspects such as:
 1. Sales performance.
@@ -29,7 +29,7 @@ By addressing these challenges, the analysis aims to empower the Adidas manageme
 
 ![image](https://github.com/user-attachments/assets/3f1b7904-701c-417c-a2f4-5a13217df188)
 
-[Report]()
+[Report](https://app.powerbi.com/view?r=eyJrIjoiNzE0ZTgzNmEtZjM0Zi00NGQ4LTg3MDAtMmZmNzRhOWE3YTZjIiwidCI6IjdmYzY2NWZjLWUwYTItNGRmZS1iYTIwLTg0NGY3ZTI0OTA3OSJ9&pageName=ReportSection5889d1d8952954773a9c)
 
 Questions the Report Answers
 
@@ -74,4 +74,4 @@ EU Projects in Śródmieście District: Impact Summary
 
 Since Poland joined the EU, Śródmieście District has secured funding for 32 projects (30 educational, 2 infrastructure) worth over 34 million PLN, making it Warsaw's most successful district in obtaining EU funds. These initiatives benefited 17,000 students and teachers through 160,000 training hours and provided 45 schools and kindergartens with equipment worth 4 million PLN.
 
-[Report](https://app.powerbi.com/links/QhI1JYcPTm?ctid=7fc665fc-e0a2-4dfe-ba20-844f7e249079&pbi_source=linkShare)
+[Report](https://app.powerbi.com/view?r=eyJrIjoiMzE0NTk0ZWMtNWM0OC00NTQxLWFmMGMtMGJjY2Y1YjYzY2M3IiwidCI6IjdmYzY2NWZjLWUwYTItNGRmZS1iYTIwLTg0NGY3ZTI0OTA3OSJ9)
