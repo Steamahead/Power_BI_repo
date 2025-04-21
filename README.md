@@ -1,6 +1,6 @@
 # Sales analysis
 
-![image](https://github.com/user-attachments/assets/38e60f77-10e5-43cc-a468-299b3fc01d75)
+![xz8y6yki](https://github.com/user-attachments/assets/684ac507-5fd1-4f9b-9491-ea7fecc04b43)
 
 [Report](https://app.powerbi.com/links/Ign-5dwSeA?ctid=7fc665fc-e0a2-4dfe-ba20-844f7e249079&pbi_source=linkShare) 
 
