@@ -74,4 +74,4 @@ EU Projects in Śródmieście District: Impact Summary
 
 Since Poland joined the EU, Śródmieście District has secured funding for 32 projects (30 educational, 2 infrastructure) worth over 34 million PLN, making it Warsaw's most successful district in obtaining EU funds. These initiatives benefited 17,000 students and teachers through 160,000 training hours and provided 45 schools and kindergartens with equipment worth 4 million PLN.
 
-[Report](https://srodmiescie.um.warszawa.pl/raport-statystyczny-fundusze)
+[Report](https://app.powerbi.com/view?r=eyJrIjoiNzUyNTUyNDYtY2Y4Ni00MGRjLThiYzMtZmVkNjIwNjU5ZjE3IiwidCI6IjEwZTRkN2E3LTQ1MmYtNDk3YS04NjlmLWMzOTlkZjhkNDU0MCIsImMiOjl9)
