@@ -66,7 +66,7 @@ Other Requirements & Information
 * The dataset contains over 2 million rows, making performance optimization crucial to ensure fast load times and responsiveness.
 
 
-# EU Projects Report: Warsaw 2004-2024
+# EU Projects Report: Warsaw 2004-2026
 
 ![image](https://github.com/user-attachments/assets/7a4ffc07-afa7-4d15-a4a7-c2b2c270f553)
 
