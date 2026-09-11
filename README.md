@@ -68,7 +68,7 @@ Other Requirements & Information
 
 # EU Projects Report: Warsaw 2004-2026
 
-<img width="1052" height="745" alt="image" src="https://github.com/user-attachments/assets/e6dadda4-9b5e-468c-b372-079f563720ff" />
+<img width="1052" height="745" alt="image" src="https://github.com/user-attachments/assets/f24828a3-50d2-480d-a00d-a048d6f098a9" />
 
 EU Projects in Śródmieście District: Impact Summary
 
